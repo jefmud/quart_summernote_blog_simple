@@ -5,6 +5,8 @@ intent:
 
 This small program is intended to demonstrate a simple blog built on Phil Jones' Quart microframework.  It wouldn't take much to flesh this out with user authentication (flask_login) and a simple administrative interface.
 
+I first learned of Quart from a EuroPython talk by Phil Jones.  There is a nice medium.com article/video of that talk (https://medium.com/@pgjones/quart-an-asgi-alternative-to-flask-53915868d220)
+
 Quart asyncio (https://github.com/pgjones/quart)
 
 **Quart is an ASYNC superset of Flask.**  The project takes some of the strongest features of Armin Ronacher's Flask project and moves it into the Python 3 asynchronous realm.  Porting simple Flask apps to Quart is relatively trivial, but you should look carefully at their documentation.  Some of the Flask addons will work with a "monkey patch" (quart.flask_ext).  See the documentation and examples for details.
