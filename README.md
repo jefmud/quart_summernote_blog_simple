@@ -13,7 +13,7 @@ Quart asyncio (https://github.com/pgjones/quart)
 
 **Summernote** - a very nice JavaScript WYSIWYG editor (https://github.com/summernote/summernote).
 
-All the styling and support come from Bootstrap 4 using a CDN for simplicity.  The page templates could be easily changed to locally served static JavaScript (JQuery) and CSS.
+All the styling and support come from Bootstrap 4 using a CDN for simplicity.  The page templates could be easily changed to locally served static JavaScript (JQuery) and CSS.  There are many good reasons to use CDN whenever you can ;-)
 
 **TinyMongo** - serves as a simple database.
 
